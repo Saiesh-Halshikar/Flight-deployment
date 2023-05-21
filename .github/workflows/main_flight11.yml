@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flight11'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D3200BBADFE497A8554372929383E74 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_021B7DDC1FC748DB9AC3A4E0CC2B85F5 }}
